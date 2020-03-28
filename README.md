@@ -10,8 +10,6 @@ Flashy is an app that helps you study by allowing you to create virtual flashcar
 
 <img src="https://github.com/Luke-awalker/Flashy/blob/master/Flashy3.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
-
 ## Required
 - [x] User sees a transition animation when going from the main screen to the add card screen.
 - [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
